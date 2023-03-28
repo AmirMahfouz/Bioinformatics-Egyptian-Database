@@ -1,0 +1,12 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>icons/gene.png</file>
+    <file>icons/protein.png</file>
+    <file>icons/main.png</file>
+    <file>icons/login.png</file>
+     <file>icons/search.png</file>
+	<file>icons/Egy.png</file>
+	<file>icons/Egy_.png</file>
+	<file>icons/back.png</file>
+</qresource>
+</RCC>
